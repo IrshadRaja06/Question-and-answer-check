@@ -1,0 +1,18 @@
+.center{
+    background-color: beige;
+    display: inline-block;
+    padding: 30px;
+}
+span {
+    background-color: aquamarine;
+    padding: 10px;
+    margin-left: -10px;
+}
+button{
+    background-color: white;
+    border: 1px solid white;
+    margin: 5px;
+    padding: 10px;
+    padding-right: 100px;
+    border-radius: 5px;
+}
